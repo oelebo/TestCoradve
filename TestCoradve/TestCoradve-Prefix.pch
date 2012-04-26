@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TestCoradve' target in the 'TestCoradve' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
